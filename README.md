@@ -14,7 +14,7 @@ Emails that concern the entire collective should be written from hi@mindful-meer
 
 If you're writing an email and you think this is important for someone of the collective to read it, then please add the person to the CC using the email addresses below.
 
-# Emails of the members
+## Email addresses of the members for human contact
 
 * Robert: orschiro@gmail.com
 * Jonas: j.wolterstorff@posteo.de
@@ -24,7 +24,25 @@ If you're writing an email and you think this is important for someone of the co
 
 We use a number of services and tools to collaborate online. If you want to invite someone of the collective to collaborate with, please use the below email addresses:
 
-# Email addresses
+## Service Email addresses
 
 * Jonas: bloodmandarin@yahoo.de
 * Robert: orschiro@gmail.com
+
+#Social Media & their purposes
+##Twitter
+
+##Youtube 
+
+##Facebook
+
+##LinkedIn
+
+##Periscope
+
+##Instagramm
+
+#Most important online tools
+
+##Trello
+##Slack
